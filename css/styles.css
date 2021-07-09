@@ -9,15 +9,25 @@ body {
   height: 100vh;
 }
 
+header {
+  width: 100vw;
+  height: 10vh;
+}
+
 #CertBox {
   display: flex;
   align-items: center;
   justify-content: center;
   width: 100vw;
-  height: 100vh;
+  height: 80vh;
 }
 
 iframe {
   width: 840px;
   height: 650px;
+}
+
+footer {
+  width: 100vw;
+  height: 10vh;
 }
