@@ -1,12 +1,14 @@
-body * {
+*{
   box-sizing: border-box;
+}
+
+body {
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
 iframe {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  width: 840px;
+  height: 650px;
 }
